@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\samples\\eShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AF9553-B957-7D94-A9EB-EF2C5C6ED9E7}|src\\HybridApp\\HybridApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\hybridapp\\components\\layout\\headerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9AF9553-B957-7D94-A9EB-EF2C5C6ED9E7}|src\\HybridApp\\HybridApp.csproj|solutionrelative:src\\hybridapp\\components\\layout\\headerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CF19E4-5622-64B9-34FF-31DCC94C3E01}|src\\WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\webapp\\components\\layout\\headerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3CF19E4-5622-64B9-34FF-31DCC94C3E01}|src\\WebApp\\WebApp.csproj|solutionrelative:src\\webapp\\components\\layout\\headerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CF19E4-5622-64B9-34FF-31DCC94C3E01}|src\\WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\webapp\\components\\pages\\user\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3CF19E4-5622-64B9-34FF-31DCC94C3E01}|src\\WebApp\\WebApp.csproj|solutionrelative:src\\webapp\\components\\pages\\user\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderBar.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\HybridApp\\Components\\Layout\\HeaderBar.razor",
+              "RelativeDocumentMoniker": "src\\HybridApp\\Components\\Layout\\HeaderBar.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\HybridApp\\Components\\Layout\\HeaderBar.razor",
+              "RelativeToolTip": "src\\HybridApp\\Components\\Layout\\HeaderBar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T20:35:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeaderBar.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\WebApp\\Components\\Layout\\HeaderBar.razor",
+              "RelativeDocumentMoniker": "src\\WebApp\\Components\\Layout\\HeaderBar.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\WebApp\\Components\\Layout\\HeaderBar.razor",
+              "RelativeToolTip": "src\\WebApp\\Components\\Layout\\HeaderBar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T20:35:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\WebApp\\Components\\Pages\\User\\LogIn.razor",
+              "RelativeDocumentMoniker": "src\\WebApp\\Components\\Pages\\User\\LogIn.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\WebApp\\Components\\Pages\\User\\LogIn.razor",
+              "RelativeToolTip": "src\\WebApp\\Components\\Pages\\User\\LogIn.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T20:24:04.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
