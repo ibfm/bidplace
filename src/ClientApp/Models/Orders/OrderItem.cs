@@ -1,6 +1,6 @@
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace eShop.ClientApp.Models.Orders;
+namespace BidPlace.ClientApp.Models.Orders;
 
 public class OrderItem
 {

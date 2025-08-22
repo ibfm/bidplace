@@ -1,14 +1,14 @@
-using eShop.ClientApp.BasketGrpcClient;
-using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Services.FixUri;
-using eShop.ClientApp.Services.Identity;
-using eShop.ClientApp.Services.Settings;
+﻿using BidPlace.ClientApp.BasketGrpcClient;
+using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Services.FixUri;
+using BidPlace.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Services.Settings;
 using Google.Protobuf;
 using Grpc.Core;
 using Grpc.Net.Client;
-using BasketItem = eShop.ClientApp.Models.Basket.BasketItem;
+using BasketItem = BidPlace.ClientApp.Models.Basket.BasketItem;
 
-namespace eShop.ClientApp.Services.Basket;
+namespace BidPlace.ClientApp.Services.Basket;
 
 public class BasketService : IBasketService, IDisposable
 {

@@ -42,7 +42,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\eShop.ServiceDefaults\eShop.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\BidPlace.ServiceDefaults\BidPlace.ServiceDefaults.csproj" />
   </ItemGroup>
   
   <ItemGroup>

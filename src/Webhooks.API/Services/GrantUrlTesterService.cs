@@ -12,14 +12,14 @@ class GrantUrlTesterService(IHttpClientFactory factory, ILogger<IGrantUrlTesterS
 
         var client = factory.CreateClient();
         var msg = new HttpRequestMessage(HttpMethod.Options, url);
-        msg.Headers.Add("X-eshop-whtoken", token);
+        msg.Headers.Add("X-bidplace-whtoken", token);
 
         logger.LogInformation("Sending the OPTIONS message to {Url} with token \"{Token}\"", url, token ?? string.Empty);
 
         try
         {
             var response = await client.SendAsync(msg);
-            var tokenReceived = response.Headers.TryGetValues("X-eshop-whtoken", out var tokenValues) ? tokenValues.FirstOrDefault() : null;
+            var tokenReceived = response.Headers.TryGetValues("X-bidplace-whtoken", out var tokenValues) ? tokenValues.FirstOrDefault() : null;
             var tokenExpected = string.IsNullOrWhiteSpace(token) ? null : token;
 
             logger.LogInformation("Response code is {StatusCode} for url {Url} and token in header was {TokenReceived} (expected token was {TokenExpected})", response.StatusCode, url, tokenReceived, tokenExpected);

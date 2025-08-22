@@ -1,7 +1,7 @@
-﻿using eShop.ClientApp.Services;
-using eShop.ClientApp.ViewModels.Base;
+﻿using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public partial class MapViewModel : ViewModelBase
 {

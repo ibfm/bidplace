@@ -1,4 +1,4 @@
-﻿using eShop.Catalog.API.Services;
+﻿using BidPlace.Catalog.API.Services;
 
 public static class Extensions
 {

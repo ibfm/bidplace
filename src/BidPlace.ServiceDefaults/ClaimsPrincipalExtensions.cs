@@ -1,6 +1,6 @@
 ﻿using System.Security.Claims;
 
-namespace eShop.ServiceDefaults;
+namespace BidPlace.ServiceDefaults;
 
 public static class ClaimsPrincipalExtensions
 {

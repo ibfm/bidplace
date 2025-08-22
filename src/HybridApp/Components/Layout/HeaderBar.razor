@@ -1,14 +1,14 @@
 ﻿@* @using Microsoft.AspNetCore.Components.Endpoints *@
 
-<div class="eshop-header @(IsCatalog? "home" : "")">
-    <div class="eshop-header-hero">
+<div class="bidplace-header @(IsCatalog? "home" : "")">
+    <div class="bidplace-header-hero">
         @{
             var headerImage = IsCatalog ? "images/header-home.webp" : "images/header.webp";
         }
         <img src="@headerImage" />
     </div>
-    <div class="eshop-header-container">
-        <nav class="eshop-header-navbar">
+    <div class="bidplace-header-container">
+        <nav class="bidplace-header-navbar">
             <a class="logo logo-header" href="">
                 <img src="images/logo-header.svg" class="logo logo-header" />
             </a>
@@ -16,7 +16,7 @@
 @*             <UserMenu />
             <CartMenu />
  *@        </nav>
-        <div class="eshop-header-intro">
+        <div class="bidplace-header-intro">
             <h1><SectionOutlet SectionName="page-header-title" /></h1>
             <p><SectionOutlet SectionName="page-header-subtitle" /></p>
         </div>

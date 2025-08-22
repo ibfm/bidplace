@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <RootNamespace>eShop.EventBusRabbitMQ</RootNamespace>
+    <RootNamespace>BidPlace.EventBusRabbitMQ</RootNamespace>
     <IsAotCompatible>true</IsAotCompatible>
     <EnableConfigurationBindingGenerator>true</EnableConfigurationBindingGenerator>
   </PropertyGroup>

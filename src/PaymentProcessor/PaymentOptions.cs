@@ -1,4 +1,4 @@
-﻿namespace eShop.PaymentProcessor;
+﻿namespace BidPlace.PaymentProcessor;
 
 public class PaymentOptions
 {

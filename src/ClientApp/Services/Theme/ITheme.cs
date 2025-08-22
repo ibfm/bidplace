@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Services.Theme;
+﻿namespace BidPlace.ClientApp.Services.Theme;
 
 public interface ITheme
 {

@@ -1,41 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\triggers\\beginanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:triggers\\beginanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\services\\eshopjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:services\\eshopjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\services\\theme\\theme.shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:services\\theme\\theme.shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\services\\catalog\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\services\\catalog\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:services\\catalog\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\animations\\storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\views\\catalogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:views\\catalogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\triggers\\beginanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:triggers\\beginanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\services\\eshopjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:services\\eshopjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\services\\theme\\theme.shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:services\\theme\\theme.shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\animations\\storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:animations\\storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\samples\\eshop\\src\\clientapp\\animations\\base\\animationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|c:\\users\\user\\source\\repos\\bidplace\\src\\clientapp\\animations\\base\\animationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A70E29B3-9C96-40F7-839E-7350508D4F33}|ClientApp.csproj|solutionrelative:animations\\base\\animationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,124 +66,182 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:02:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:59:27.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\CatalogView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CatalogView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\CatalogView.xaml.cs",
+              "RelativeToolTip": "Views\\CatalogView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:59:09.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAK0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:58:12.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-21T13:58:07.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Views\\LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\LoginView.xaml.cs",
               "RelativeToolTip": "Views\\LoginView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:32:42.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:32:42.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Views\\LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Views\\LoginView.xaml",
               "RelativeToolTip": "Views\\LoginView.xaml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-21T00:32:34.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:32:34.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "BeginAnimation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Triggers\\BeginAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Triggers\\BeginAnimation.cs",
               "RelativeDocumentMoniker": "Triggers\\BeginAnimation.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Triggers\\BeginAnimation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Triggers\\BeginAnimation.cs",
               "RelativeToolTip": "Triggers\\BeginAnimation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T00:32:26.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "EShopJsonSerializerContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\EShopJsonSerializerContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\EShopJsonSerializerContext.cs",
               "RelativeDocumentMoniker": "Services\\EShopJsonSerializerContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\EShopJsonSerializerContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\EShopJsonSerializerContext.cs",
               "RelativeToolTip": "Services\\EShopJsonSerializerContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:32:17.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:32:17.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Theme.shared.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\Theme\\Theme.shared.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\Theme\\Theme.shared.cs",
               "RelativeDocumentMoniker": "Services\\Theme\\Theme.shared.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\Theme\\Theme.shared.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\Theme\\Theme.shared.cs",
               "RelativeToolTip": "Services\\Theme\\Theme.shared.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:32:14.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:32:14.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CatalogViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\ViewModels\\CatalogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\ViewModels\\CatalogViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CatalogViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\ViewModels\\CatalogViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\ViewModels\\CatalogViewModel.cs",
               "RelativeToolTip": "ViewModels\\CatalogViewModel.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAAAGgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:31:44.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:31:44.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CatalogService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\Catalog\\CatalogService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\Catalog\\CatalogService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Services\\Catalog\\CatalogService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Services\\Catalog\\CatalogService.cs",
               "RelativeToolTip": "Services\\Catalog\\CatalogService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAiwBkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T00:31:23.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "StoryBoard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Animations\\StoryBoard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Animations\\StoryBoard.cs",
               "RelativeDocumentMoniker": "Animations\\StoryBoard.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Animations\\StoryBoard.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Animations\\StoryBoard.cs",
               "RelativeToolTip": "Animations\\StoryBoard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:29:53.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:29:53.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AnimationBase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Animations\\Base\\AnimationBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Animations\\Base\\AnimationBase.cs",
               "RelativeDocumentMoniker": "Animations\\Base\\AnimationBase.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\samples\\eShop\\src\\ClientApp\\Animations\\Base\\AnimationBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bidplace\\src\\ClientApp\\Animations\\Base\\AnimationBase.cs",
               "RelativeToolTip": "Animations\\Base\\AnimationBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:29:56.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T00:29:56.311Z"
             }
           ]
         }

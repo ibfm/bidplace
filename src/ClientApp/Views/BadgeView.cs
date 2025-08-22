@@ -1,6 +1,6 @@
 ﻿using Microsoft.Maui.Controls.Shapes;
 
-namespace eShop.ClientApp.Views;
+namespace BidPlace.ClientApp.Views;
 
 [ContentProperty(nameof(Content))]
 public class BadgeView : Grid

@@ -1,6 +1,6 @@
-﻿using eShop.EventBus.Abstractions;
+﻿using BidPlace.EventBus.Abstractions;
 
-namespace eShop.WebApp.Services.OrderStatus.IntegrationEvents;
+namespace BidPlace.WebApp.Services.OrderStatus.IntegrationEvents;
 
 public class OrderStatusChangedToCancelledIntegrationEventHandler(
     OrderStatusNotificationService orderStatusNotificationService,

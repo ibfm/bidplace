@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace eShop.ClientApp.Animations.Base;
+namespace BidPlace.ClientApp.Animations.Base;
 
 public abstract class AnimationBase : BindableObject
 {

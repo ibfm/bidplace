@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Models.Orders;
+﻿using BidPlace.ClientApp.Models.Orders;
 
-namespace eShop.ClientApp.Models.User;
+namespace BidPlace.ClientApp.Models.User;
 
 public class PaymentInfo
 {

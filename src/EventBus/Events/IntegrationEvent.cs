@@ -1,4 +1,4 @@
-﻿namespace eShop.EventBus.Events;
+﻿namespace BidPlace.EventBus.Events;
 
 public record IntegrationEvent
 {

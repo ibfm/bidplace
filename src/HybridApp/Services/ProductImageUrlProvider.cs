@@ -1,6 +1,6 @@
-﻿using eShop.WebAppComponents.Services;
+﻿using BidPlace.WebAppComponents.Services;
 
-namespace eShop.HybridApp.Services;
+namespace BidPlace.HybridApp.Services;
 
 public class ProductImageUrlProvider : IProductImageUrlProvider
 {

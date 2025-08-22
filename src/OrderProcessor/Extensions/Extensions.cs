@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
-using eShop.OrderProcessor.Events;
+using BidPlace.OrderProcessor.Events;
 
-namespace eShop.OrderProcessor.Extensions;
+namespace BidPlace.OrderProcessor.Extensions;
 
 public static class Extensions
 {

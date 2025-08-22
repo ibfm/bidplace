@@ -1,6 +1,6 @@
-﻿using eShop.Ordering.Domain.AggregatesModel.OrderAggregate;
+﻿using BidPlace.Ordering.Domain.AggregatesModel.OrderAggregate;
 
-namespace eShop.Ordering.UnitTests.Domain;
+namespace BidPlace.Ordering.UnitTests.Domain;
 
 public class AddressBuilder
 {

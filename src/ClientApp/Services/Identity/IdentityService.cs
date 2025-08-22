@@ -1,10 +1,10 @@
-using eShop.ClientApp.Models.Token;
-using eShop.ClientApp.Models.User;
-using eShop.ClientApp.Services.Settings;
+﻿using BidPlace.ClientApp.Models.Token;
+using BidPlace.ClientApp.Models.User;
+using BidPlace.ClientApp.Services.Settings;
 using IdentityModel.OidcClient;
 using IBrowser = IdentityModel.OidcClient.Browser.IBrowser;
 
-namespace eShop.ClientApp.Services.Identity;
+namespace BidPlace.ClientApp.Services.Identity;
 
 public class IdentityService : IIdentityService
 {

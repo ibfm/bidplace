@@ -1,7 +1,7 @@
-﻿using eShop.ClientApp.Services;
-using eShop.ClientApp.Views;
+﻿using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Views;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 public partial class AppShell : Shell
 {

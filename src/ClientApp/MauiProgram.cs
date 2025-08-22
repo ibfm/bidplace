@@ -1,23 +1,23 @@
 ﻿using CommunityToolkit.Maui;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.Services.Basket;
-using eShop.ClientApp.Services.Catalog;
-using eShop.ClientApp.Services.FixUri;
-using eShop.ClientApp.Services.Identity;
-using eShop.ClientApp.Services.Location;
-using eShop.ClientApp.Services.OpenUrl;
-using eShop.ClientApp.Services.Order;
-using eShop.ClientApp.Services.RequestProvider;
-using eShop.ClientApp.Services.Settings;
-using eShop.ClientApp.Services.Theme;
-using eShop.ClientApp.Views;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.Services.Basket;
+using BidPlace.ClientApp.Services.Catalog;
+using BidPlace.ClientApp.Services.FixUri;
+using BidPlace.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Services.Location;
+using BidPlace.ClientApp.Services.OpenUrl;
+using BidPlace.ClientApp.Services.Order;
+using BidPlace.ClientApp.Services.RequestProvider;
+using BidPlace.ClientApp.Services.Settings;
+using BidPlace.ClientApp.Services.Theme;
+using BidPlace.ClientApp.Views;
 using IdentityModel.OidcClient;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Logging;
 using IBrowser = IdentityModel.OidcClient.Browser.IBrowser;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 public static class MauiProgram
 {

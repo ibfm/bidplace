@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Services;
+﻿namespace BidPlace.ClientApp.Services;
 
 public class DialogService : IDialogService
 {

@@ -3,13 +3,13 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using eShop.Catalog.API.Infrastructure;
+using BidPlace.Catalog.API.Infrastructure;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using Pgvector;
 
 #nullable disable
 
-namespace eShop.Catalog.API.Infrastructure.Migrations
+namespace BidPlace.Catalog.API.Infrastructure.Migrations
 {
     [DbContext(typeof(CatalogContext))]
     [Migration("20231009153249_Initial")]
@@ -35,7 +35,7 @@ namespace eShop.Catalog.API.Infrastructure.Migrations
             modelBuilder.HasSequence("catalog_type_hilo")
                 .IncrementsBy(10);
 
-            modelBuilder.Entity("eShop.Catalog.API.Model.CatalogBrand", b =>
+            modelBuilder.Entity("BidPlace.Catalog.API.Model.CatalogBrand", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -53,7 +53,7 @@ namespace eShop.Catalog.API.Infrastructure.Migrations
                     b.ToTable("CatalogBrand", (string)null);
                 });
 
-            modelBuilder.Entity("eShop.Catalog.API.Model.CatalogItem", b =>
+            modelBuilder.Entity("BidPlace.Catalog.API.Model.CatalogItem", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -105,7 +105,7 @@ namespace eShop.Catalog.API.Infrastructure.Migrations
                     b.ToTable("Catalog", (string)null);
                 });
 
-            modelBuilder.Entity("eShop.Catalog.API.Model.CatalogType", b =>
+            modelBuilder.Entity("BidPlace.Catalog.API.Model.CatalogType", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -123,15 +123,15 @@ namespace eShop.Catalog.API.Infrastructure.Migrations
                     b.ToTable("CatalogType", (string)null);
                 });
 
-            modelBuilder.Entity("eShop.Catalog.API.Model.CatalogItem", b =>
+            modelBuilder.Entity("BidPlace.Catalog.API.Model.CatalogItem", b =>
                 {
-                    b.HasOne("eShop.Catalog.API.Model.CatalogBrand", "CatalogBrand")
+                    b.HasOne("BidPlace.Catalog.API.Model.CatalogBrand", "CatalogBrand")
                         .WithMany()
                         .HasForeignKey("CatalogBrandId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("eShop.Catalog.API.Model.CatalogType", "CatalogType")
+                    b.HasOne("BidPlace.Catalog.API.Model.CatalogType", "CatalogType")
                         .WithMany()
                         .HasForeignKey("CatalogTypeId")
                         .OnDelete(DeleteBehavior.Cascade)

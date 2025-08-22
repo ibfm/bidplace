@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 
 <Shell
-    x:Class="eShop.ClientApp.AppShell"
+    x:Class="BidPlace.ClientApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
-    xmlns:views="clr-namespace:eShop.ClientApp.Views">
+    xmlns:views="clr-namespace:BidPlace.ClientApp.Views">
 
     <Shell.Resources>
         <ResourceDictionary>

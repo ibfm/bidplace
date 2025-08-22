@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Animations.Base;
+﻿using BidPlace.ClientApp.Animations.Base;
 
-namespace eShop.ClientApp.Animations;
+namespace BidPlace.ClientApp.Animations;
 
 [ContentProperty("Animations")]
 public class StoryBoard : AnimationBase

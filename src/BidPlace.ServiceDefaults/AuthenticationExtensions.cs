@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.JsonWebTokens;
 
-namespace eShop.ServiceDefaults;
+namespace BidPlace.ServiceDefaults;
 
 public static class AuthenticationExtensions
 {

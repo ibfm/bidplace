@@ -1,6 +1,6 @@
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace eShop.ClientApp.Models.Token;
+namespace BidPlace.ClientApp.Models.Token;
 
 public class UserToken
 {

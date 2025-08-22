@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Effects;
+﻿namespace BidPlace.ClientApp.Effects;
 
 public static class ThemeEffects
 {

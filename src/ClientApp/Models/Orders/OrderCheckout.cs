@@ -1,7 +1,7 @@
-using System.ComponentModel.DataAnnotations;
-using eShop.ClientApp.Models.Orders;
+﻿using System.ComponentModel.DataAnnotations;
+using BidPlace.ClientApp.Models.Orders;
 
-namespace eShop.ClientApp.Models.Basket;
+namespace BidPlace.ClientApp.Models.Basket;
 
 public class OrderCheckout
 {

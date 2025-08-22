@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.UnitTests.Domain;
+﻿namespace BidPlace.Ordering.UnitTests.Domain;
 
 [TestClass]
 public class BuyerAggregateTest

@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 using CommunityToolkit.Maui.Converters;
 
-namespace eShop.ClientApp.Converters;
+namespace BidPlace.ClientApp.Converters;
 
 public class FirstValidationErrorConverter : BaseConverterOneWay<IEnumerable<string>, string>
 {

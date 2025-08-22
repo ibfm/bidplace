@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace eShop.WebhookClient.Services;
+namespace BidPlace.WebhookClient.Services;
 
 public class HooksRepository
 {

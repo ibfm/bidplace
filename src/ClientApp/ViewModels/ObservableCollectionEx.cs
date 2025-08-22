@@ -2,7 +2,7 @@
 using System.Collections.Specialized;
 using System.ComponentModel;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public class ObservableCollectionEx<T> : ObservableCollection<T>
 {

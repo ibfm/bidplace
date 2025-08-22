@@ -1,8 +1,8 @@
 ﻿using ClientApp.UnitTests.Mocks;
 using CommunityToolkit.Mvvm.Messaging;
-using eShop.ClientApp.Messages;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Messages;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Services.Identity;
 
 namespace ClientApp.UnitTests.ViewModels;
 

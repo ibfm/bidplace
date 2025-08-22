@@ -1,6 +1,6 @@
-using eShop.ClientApp.Models.Basket;
+﻿using BidPlace.ClientApp.Models.Basket;
 
-namespace eShop.ClientApp.Services.Order;
+namespace BidPlace.ClientApp.Services.Order;
 
 public interface IOrderService
 {

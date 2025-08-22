@@ -1,7 +1,7 @@
-#nullable enable
-using eShop.ClientApp.Models.Token;
+﻿#nullable enable
+using BidPlace.ClientApp.Models.Token;
 
-namespace eShop.ClientApp.Services.Settings;
+namespace BidPlace.ClientApp.Services.Settings;
 
 public interface ISettingsService
 {

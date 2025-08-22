@@ -1,13 +1,13 @@
 ﻿using System.Diagnostics;
 using System.Globalization;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.Services.Location;
-using eShop.ClientApp.Services.Settings;
-using eShop.ClientApp.Services.Theme;
-using Location = eShop.ClientApp.Models.Location.Location;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.Services.Location;
+using BidPlace.ClientApp.Services.Settings;
+using BidPlace.ClientApp.Services.Theme;
+using Location = BidPlace.ClientApp.Models.Location.Location;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 public partial class App : Application
 {

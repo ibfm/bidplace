@@ -1,6 +1,6 @@
-﻿namespace eShop.OrderProcessor.Events
+﻿namespace BidPlace.OrderProcessor.Events
 {
-    using eShop.EventBus.Events;
+    using BidPlace.EventBus.Events;
 
     public record GracePeriodConfirmedIntegrationEvent : IntegrationEvent
     {

@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
-using eShop.Basket.API.Model;
+using BidPlace.Basket.API.Model;
 
-namespace eShop.Basket.API.Repositories;
+namespace BidPlace.Basket.API.Repositories;
 
 public class RedisBasketRepository(ILogger<RedisBasketRepository> logger, IConnectionMultiplexer redis) : IBasketRepository
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.UnitTests.Domain.SeedWork;
+﻿namespace BidPlace.Ordering.UnitTests.Domain.SeedWork;
 
 public class ValueObjectTests
 {

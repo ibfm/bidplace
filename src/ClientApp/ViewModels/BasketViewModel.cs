@@ -1,10 +1,10 @@
-using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.Services.Settings;
-using eShop.ClientApp.ViewModels.Base;
+﻿using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.Services.Settings;
+using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public partial class BasketViewModel : ViewModelBase
 {

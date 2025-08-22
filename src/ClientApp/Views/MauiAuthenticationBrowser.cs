@@ -1,8 +1,8 @@
-using IdentityModel.Client;
+﻿using IdentityModel.Client;
 using IdentityModel.OidcClient.Browser;
 using IBrowser = IdentityModel.OidcClient.Browser.IBrowser;
 
-namespace eShop.ClientApp.Views;
+namespace BidPlace.ClientApp.Views;
 
 public class MauiAuthenticationBrowser : IBrowser
 {

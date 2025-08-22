@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <ContentView
-    x:Class="eShop.ClientApp.Views.Templates.OrderItemTemplate"
+    x:Class="BidPlace.ClientApp.Views.Templates.OrderItemTemplate"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:models="clr-namespace:eShop.ClientApp.Models.Orders"
+    xmlns:models="clr-namespace:BidPlace.ClientApp.Models.Orders"
     x:DataType="models:OrderItem">
     <ContentView.Resources>
         <ResourceDictionary>

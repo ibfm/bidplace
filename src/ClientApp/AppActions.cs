@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp;
+﻿namespace BidPlace.ClientApp;
 
 public static class AppActions
 {

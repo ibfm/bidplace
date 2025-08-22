@@ -1,6 +1,6 @@
-﻿namespace eShop.Ordering.API.Application.Commands;
+﻿namespace BidPlace.Ordering.API.Application.Commands;
 
-using eShop.Ordering.Domain.AggregatesModel.OrderAggregate;
+using BidPlace.Ordering.Domain.AggregatesModel.OrderAggregate;
 
 // Regular CommandHandler
 public class CreateOrderCommandHandler

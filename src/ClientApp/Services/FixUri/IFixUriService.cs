@@ -1,8 +1,8 @@
-﻿using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Models.Marketing;
+﻿using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Models.Marketing;
 
-namespace eShop.ClientApp.Services.FixUri;
+namespace BidPlace.ClientApp.Services.FixUri;
 
 public interface IFixUriService
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.Orders;
+﻿namespace BidPlace.ClientApp.Models.Orders;
 
 public class CardType
 {

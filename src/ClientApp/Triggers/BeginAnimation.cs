@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Animations.Base;
+﻿using BidPlace.ClientApp.Animations.Base;
 
-namespace eShop.ClientApp.Triggers;
+namespace BidPlace.ClientApp.Triggers;
 
 public class BeginAnimation : TriggerAction<VisualElement>
 {

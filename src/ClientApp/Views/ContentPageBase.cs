@@ -1,6 +1,6 @@
-using eShop.ClientApp.ViewModels.Base;
+﻿using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.Views;
+namespace BidPlace.ClientApp.Views;
 
 public abstract class ContentPageBase : ContentPage
 {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eShop.IntegrationEventLogEF;
+namespace BidPlace.IntegrationEventLogEF;
 
 public class IntegrationEventLogEntry
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.Commands;
+﻿namespace BidPlace.Ordering.API.Application.Commands;
 
 // DDD and CQRS patterns comment: Note that it is recommended to implement immutable Commands
 // In this case, its immutability is achieved by having all the setters as private
@@ -9,8 +9,8 @@
 // http://blog.gauffin.org/2012/06/griffin-container-introducing-command-support/
 // https://docs.microsoft.com/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-a-lightweight-class-with-auto-implemented-properties
 
-using eShop.Ordering.API.Application.Models;
-using eShop.Ordering.API.Extensions;
+using BidPlace.Ordering.API.Application.Models;
+using BidPlace.Ordering.API.Extensions;
 
 [DataContract]
 public class CreateOrderCommand

@@ -2,10 +2,10 @@
 using System.Text.Json;
 using Asp.Versioning;
 using Asp.Versioning.Http;
-using eShop.Catalog.API.Model;
+using BidPlace.Catalog.API.Model;
 using Microsoft.AspNetCore.Mvc.Testing;
 
-namespace eShop.Catalog.FunctionalTests;
+namespace BidPlace.Catalog.FunctionalTests;
 
 public sealed class CatalogApiTests : IClassFixture<CatalogApiFixture>
 {

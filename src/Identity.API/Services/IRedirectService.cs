@@ -1,4 +1,4 @@
-﻿namespace eShop.Identity.API.Services
+﻿namespace BidPlace.Identity.API.Services
 {
     public interface IRedirectService
     {

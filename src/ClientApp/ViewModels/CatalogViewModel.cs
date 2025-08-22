@@ -1,12 +1,12 @@
-#nullable enable
+﻿#nullable enable
 using CommunityToolkit.Mvvm.Messaging;
-using eShop.ClientApp.Messages;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.ViewModels.Base;
+using BidPlace.ClientApp.Messages;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public partial class CatalogViewModel : ViewModelBase
 {

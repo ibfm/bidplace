@@ -1,6 +1,6 @@
-using Grpc.Core;
+﻿using Grpc.Core;
 
-namespace eShop.Basket.UnitTests.Helpers;
+namespace BidPlace.Basket.UnitTests.Helpers;
 
 public class TestServerCallContext : ServerCallContext
     {

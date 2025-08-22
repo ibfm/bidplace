@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace eShop.ClientApp.Services.RequestProvider;
+namespace BidPlace.ClientApp.Services.RequestProvider;
 
 public class HttpRequestExceptionEx : HttpRequestException
 {

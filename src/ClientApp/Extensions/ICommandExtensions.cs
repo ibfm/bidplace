@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 public static class ICommandExtensions
 {

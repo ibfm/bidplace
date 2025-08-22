@@ -1,7 +1,7 @@
-﻿using eShop.Ordering.API.Application.IntegrationEvents;
-using eShop.Ordering.Domain.AggregatesModel.OrderAggregate;
+﻿using BidPlace.Ordering.API.Application.IntegrationEvents;
+using BidPlace.Ordering.Domain.AggregatesModel.OrderAggregate;
 
-namespace eShop.Ordering.UnitTests.Application;
+namespace BidPlace.Ordering.UnitTests.Application;
 
 [TestClass]
 public class NewOrderRequestHandlerTest

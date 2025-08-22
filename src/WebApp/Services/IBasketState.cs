@@ -1,6 +1,6 @@
-﻿using eShop.WebAppComponents.Catalog;
+﻿using BidPlace.WebAppComponents.Catalog;
 
-namespace eShop.WebApp.Services
+namespace BidPlace.WebApp.Services
 {
     public interface IBasketState
     {

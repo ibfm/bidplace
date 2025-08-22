@@ -1,4 +1,4 @@
-﻿namespace eShop.Catalog.API.Infrastructure;
+﻿namespace BidPlace.Catalog.API.Infrastructure;
 
 /// <remarks>
 /// Add migrations using the following command inside the 'Catalog.API' project directory:

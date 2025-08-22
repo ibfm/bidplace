@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <views:ContentPageBase
-    x:Class="eShop.ClientApp.Views.LoginView"
+    x:Class="BidPlace.ClientApp.Views.LoginView"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:animations="clr-namespace:eShop.ClientApp.Animations"
+    xmlns:animations="clr-namespace:BidPlace.ClientApp.Animations"
     xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
-    xmlns:triggers="clr-namespace:eShop.ClientApp.Triggers"
-    xmlns:viewmodels="clr-namespace:eShop.ClientApp.ViewModels"
-    xmlns:views="clr-namespace:eShop.ClientApp.Views"
+    xmlns:triggers="clr-namespace:BidPlace.ClientApp.Triggers"
+    xmlns:viewmodels="clr-namespace:BidPlace.ClientApp.ViewModels"
+    xmlns:views="clr-namespace:BidPlace.ClientApp.Views"
     ios:Page.UseSafeArea="False"
     x:DataType="viewmodels:LoginViewModel"
     BackgroundColor="{StaticResource LightGrayColor}"
@@ -17,7 +17,7 @@
     Shell.TabBarIsVisible="False">
     <ContentPage.Title>
         <OnPlatform x:TypeArguments="x:String">
-            <On Platform="iOS, WinUI" Value="AdventureWorks" />
+            <On Platform="iOS, WinUI" Value="BidPlace" />
         </OnPlatform>
     </ContentPage.Title>
     <ContentPage.Resources>

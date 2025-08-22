@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Models.Basket;
+﻿using BidPlace.ClientApp.Models.Basket;
 
-namespace eShop.ClientApp.Services.Basket;
+namespace BidPlace.ClientApp.Services.Basket;
 
 public interface IBasketService
 {

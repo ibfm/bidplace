@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace eShop.HybridApp;
+namespace BidPlace.HybridApp;
 
 public class Program
 {

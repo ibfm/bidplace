@@ -2,7 +2,7 @@
 using Microsoft.Extensions.AI;
 using Pgvector;
 
-namespace eShop.Catalog.API.Services;
+namespace BidPlace.Catalog.API.Services;
 
 public sealed class CatalogAI : ICatalogAI
 {

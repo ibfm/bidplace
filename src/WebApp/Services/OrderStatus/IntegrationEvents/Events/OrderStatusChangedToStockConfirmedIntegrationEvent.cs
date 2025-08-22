@@ -1,6 +1,6 @@
-﻿using eShop.EventBus.Events;
+﻿using BidPlace.EventBus.Events;
 
-namespace eShop.WebApp.Services.OrderStatus.IntegrationEvents;
+namespace BidPlace.WebApp.Services.OrderStatus.IntegrationEvents;
 
 public record OrderStatusChangedToStockConfirmedIntegrationEvent : IntegrationEvent
 {

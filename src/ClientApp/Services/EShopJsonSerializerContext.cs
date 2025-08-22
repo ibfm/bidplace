@@ -1,9 +1,9 @@
-using System.Text.Json.Serialization;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Models.Orders;
-using eShop.ClientApp.Models.Token;
+﻿using System.Text.Json.Serialization;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Models.Orders;
+using BidPlace.ClientApp.Models.Token;
 
-namespace eShop.ClientApp.Services;
+namespace BidPlace.ClientApp.Services;
 
 [JsonSourceGenerationOptions(
     PropertyNameCaseInsensitive = true,

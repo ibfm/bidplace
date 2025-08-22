@@ -1,12 +1,12 @@
-using System.Diagnostics;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.Services.OpenUrl;
-using eShop.ClientApp.Services.Settings;
-using eShop.ClientApp.Validations;
-using eShop.ClientApp.ViewModels.Base;
+﻿using System.Diagnostics;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.Services.OpenUrl;
+using BidPlace.ClientApp.Services.Settings;
+using BidPlace.ClientApp.Validations;
+using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public partial class LoginViewModel : ViewModelBase
 {

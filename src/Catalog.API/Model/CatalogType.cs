@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eShop.Catalog.API.Model;
+namespace BidPlace.Catalog.API.Model;
 
 public class CatalogType
 {

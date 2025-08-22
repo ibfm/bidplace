@@ -1,8 +1,8 @@
-﻿namespace eShop.Ordering.UnitTests.Application;
+﻿namespace BidPlace.Ordering.UnitTests.Application;
 
 using Microsoft.AspNetCore.Http.HttpResults;
-using eShop.Ordering.API.Application.Queries;
-using Order = eShop.Ordering.API.Application.Queries.Order;
+using BidPlace.Ordering.API.Application.Queries;
+using Order = BidPlace.Ordering.API.Application.Queries.Order;
 using NSubstitute.ExceptionExtensions;
 
 [TestClass]

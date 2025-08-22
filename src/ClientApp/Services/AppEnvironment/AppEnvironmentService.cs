@@ -1,9 +1,9 @@
-using eShop.ClientApp.Services.Basket;
-using eShop.ClientApp.Services.Catalog;
-using eShop.ClientApp.Services.Identity;
-using eShop.ClientApp.Services.Order;
+﻿using BidPlace.ClientApp.Services.Basket;
+using BidPlace.ClientApp.Services.Catalog;
+using BidPlace.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Services.Order;
 
-namespace eShop.ClientApp.Services.AppEnvironment;
+namespace BidPlace.ClientApp.Services.AppEnvironment;
 
 public class AppEnvironmentService : IAppEnvironmentService
 {

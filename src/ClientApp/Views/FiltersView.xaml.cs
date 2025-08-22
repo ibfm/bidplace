@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Views;
+﻿namespace BidPlace.ClientApp.Views;
 
 public partial class FiltersView : ContentPage
 {

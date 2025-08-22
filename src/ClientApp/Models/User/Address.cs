@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.User;
+﻿namespace BidPlace.ClientApp.Models.User;
 
 public class Address
 {

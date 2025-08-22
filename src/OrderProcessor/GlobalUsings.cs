@@ -2,6 +2,6 @@
 global using Microsoft.Extensions.DependencyInjection;
 global using Microsoft.Extensions.Hosting;
 global using Microsoft.Extensions.Logging;
-global using eShop.OrderProcessor.Extensions;
-global using eShop.OrderProcessor.Services;
-global using eShop.ServiceDefaults;
+global using BidPlace.OrderProcessor.Extensions;
+global using BidPlace.OrderProcessor.Services;
+global using BidPlace.ServiceDefaults;

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eShop.WebApp.Services;
+namespace BidPlace.WebApp.Services;
 
 public class BasketCheckoutInfo
 {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eShop.Ordering.Domain.AggregatesModel.OrderAggregate;
+namespace BidPlace.Ordering.Domain.AggregatesModel.OrderAggregate;
 
 public class OrderItem
     : Entity

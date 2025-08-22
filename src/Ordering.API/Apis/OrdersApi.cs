@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
-using CardType = eShop.Ordering.API.Application.Queries.CardType;
-using Order = eShop.Ordering.API.Application.Queries.Order;
+using CardType = BidPlace.Ordering.API.Application.Queries.CardType;
+using Order = BidPlace.Ordering.API.Application.Queries.Order;
 
 public static class OrdersApi
 {

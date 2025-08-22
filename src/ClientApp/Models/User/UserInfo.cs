@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace eShop.ClientApp.Models.User;
+namespace BidPlace.ClientApp.Models.User;
 
 public class UserInfo
 {

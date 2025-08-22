@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.ViewModels;
+﻿namespace BidPlace.ClientApp.ViewModels;
 
 public partial class SelectionViewModel<T> : ObservableObject
 {

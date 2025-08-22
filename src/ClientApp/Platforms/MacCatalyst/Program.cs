@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 public class Program
 {

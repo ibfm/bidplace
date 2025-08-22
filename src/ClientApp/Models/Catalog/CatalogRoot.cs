@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.Catalog;
+﻿namespace BidPlace.ClientApp.Models.Catalog;
 
 public class CatalogRoot
 {

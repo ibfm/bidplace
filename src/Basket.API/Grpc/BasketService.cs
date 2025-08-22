@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.CodeAnalysis;
-using eShop.Basket.API.Repositories;
-using eShop.Basket.API.Extensions;
-using eShop.Basket.API.Model;
+using BidPlace.Basket.API.Repositories;
+using BidPlace.Basket.API.Extensions;
+using BidPlace.Basket.API.Model;
 
-namespace eShop.Basket.API.Grpc;
+namespace BidPlace.Basket.API.Grpc;
 
 public class BasketService(
     IBasketRepository repository,

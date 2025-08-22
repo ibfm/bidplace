@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.Commands;
+﻿namespace BidPlace.Ordering.API.Application.Commands;
 
 public record CancelOrderCommand(int OrderNumber) : IRequest<bool>;
 

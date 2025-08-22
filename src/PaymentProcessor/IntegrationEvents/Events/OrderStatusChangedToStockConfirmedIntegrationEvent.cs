@@ -1,3 +1,3 @@
-﻿namespace eShop.PaymentProcessor.IntegrationEvents.Events;
+﻿namespace BidPlace.PaymentProcessor.IntegrationEvents.Events;
 
 public record OrderStatusChangedToStockConfirmedIntegrationEvent(int OrderId) : IntegrationEvent;

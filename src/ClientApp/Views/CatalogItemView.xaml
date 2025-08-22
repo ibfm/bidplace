@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <views:ContentPageBase
-    x:Class="eShop.ClientApp.Views.CatalogItemView"
+    x:Class="BidPlace.ClientApp.Views.CatalogItemView"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:animations="clr-namespace:eShop.ClientApp.Animations"
-    xmlns:triggers="clr-namespace:eShop.ClientApp.Triggers"
-    xmlns:viewmodels="clr-namespace:eShop.ClientApp.ViewModels"
-    xmlns:views="clr-namespace:eShop.ClientApp.Views"
+    xmlns:animations="clr-namespace:BidPlace.ClientApp.Animations"
+    xmlns:triggers="clr-namespace:BidPlace.ClientApp.Triggers"
+    xmlns:viewmodels="clr-namespace:BidPlace.ClientApp.ViewModels"
+    xmlns:views="clr-namespace:BidPlace.ClientApp.Views"
     Padding="24"
     x:DataType="viewmodels:CatalogItemViewModel"
     BackgroundColor="#aa000000"

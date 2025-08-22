@@ -1,4 +1,4 @@
-﻿namespace eShop.WebhookClient.Services;
+﻿namespace BidPlace.WebhookClient.Services;
 
 public class WebhookSubscriptionRequest
 {

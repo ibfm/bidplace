@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.IntegrationEvents.Events;
+﻿namespace BidPlace.Ordering.API.Application.IntegrationEvents.Events;
 
 public record OrderStatusChangedToShippedIntegrationEvent : IntegrationEvent
 {

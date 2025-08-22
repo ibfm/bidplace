@@ -1,4 +1,4 @@
-﻿namespace eShop.Catalog.API.IntegrationEvents;
+﻿namespace BidPlace.Catalog.API.IntegrationEvents;
 
 public interface ICatalogIntegrationEventService
 {

@@ -1,12 +1,12 @@
-using System.Net;
-using eShop.ClientApp.Helpers;
-using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Models.Orders;
-using eShop.ClientApp.Services.Identity;
-using eShop.ClientApp.Services.RequestProvider;
-using eShop.ClientApp.Services.Settings;
+﻿using System.Net;
+using BidPlace.ClientApp.Helpers;
+using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Models.Orders;
+using BidPlace.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Services.RequestProvider;
+using BidPlace.ClientApp.Services.Settings;
 
-namespace eShop.ClientApp.Services.Order;
+namespace BidPlace.ClientApp.Services.Order;
 
 public class OrderService : IOrderService
 {

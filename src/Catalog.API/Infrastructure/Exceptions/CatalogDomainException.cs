@@ -1,4 +1,4 @@
-﻿namespace eShop.Catalog.API.Infrastructure.Exceptions;
+﻿namespace BidPlace.Catalog.API.Infrastructure.Exceptions;
 
 /// <summary>
 /// Exception type for app exceptions

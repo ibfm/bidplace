@@ -1,8 +1,8 @@
-using System.Globalization;
+﻿using System.Globalization;
 using System.Text.Json;
-using eShop.ClientApp.Models.Token;
+using BidPlace.ClientApp.Models.Token;
 
-namespace eShop.ClientApp.Services.Settings;
+namespace BidPlace.ClientApp.Services.Settings;
 
 public class SettingsService : ISettingsService
 {

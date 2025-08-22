@@ -1,4 +1,4 @@
-﻿namespace eShop.IntegrationEventLogEF.Utilities;
+﻿namespace BidPlace.IntegrationEventLogEF.Utilities;
 
 public class ResilientTransaction
 {

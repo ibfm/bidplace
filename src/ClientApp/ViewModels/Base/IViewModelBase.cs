@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Services;
+﻿using BidPlace.ClientApp.Services;
 
-namespace eShop.ClientApp.ViewModels.Base;
+namespace BidPlace.ClientApp.ViewModels.Base;
 
 public interface IViewModelBase : IQueryAttributable
 {

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace eShop.HybridApp;
+namespace BidPlace.HybridApp;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

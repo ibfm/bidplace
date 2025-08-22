@@ -1,3 +1,3 @@
-﻿global using eShop.WebApp.Components;
-global using eShop.WebApp.Services;
-global using eShop.ServiceDefaults;
+﻿global using BidPlace.WebApp.Components;
+global using BidPlace.WebApp.Services;
+global using BidPlace.ServiceDefaults;

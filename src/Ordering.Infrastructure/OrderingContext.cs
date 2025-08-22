@@ -1,6 +1,6 @@
-﻿using eShop.IntegrationEventLogEF;
+﻿using BidPlace.IntegrationEventLogEF;
 
-namespace eShop.Ordering.Infrastructure;
+namespace BidPlace.Ordering.Infrastructure;
 
 /// <remarks>
 /// Add migrations using the following command inside the 'Ordering.Infrastructure' project directory:

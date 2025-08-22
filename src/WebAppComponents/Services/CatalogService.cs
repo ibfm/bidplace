@@ -1,8 +1,8 @@
 ﻿using System.Net.Http.Json;
 using System.Web;
-using eShop.WebAppComponents.Catalog;
+using BidPlace.WebAppComponents.Catalog;
 
-namespace eShop.WebAppComponents.Services;
+namespace BidPlace.WebAppComponents.Services;
 
 public class CatalogService(HttpClient httpClient) : ICatalogService
 {

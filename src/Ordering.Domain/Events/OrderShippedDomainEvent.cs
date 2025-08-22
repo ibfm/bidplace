@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.Domain.Events;
+﻿namespace BidPlace.Ordering.Domain.Events;
 
 public class OrderShippedDomainEvent : INotification
 {

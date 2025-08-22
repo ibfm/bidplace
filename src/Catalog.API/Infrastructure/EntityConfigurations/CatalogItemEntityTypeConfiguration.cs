@@ -1,4 +1,4 @@
-﻿namespace eShop.Catalog.API.Infrastructure.EntityConfigurations;
+﻿namespace BidPlace.Catalog.API.Infrastructure.EntityConfigurations;
 
 class CatalogItemEntityTypeConfiguration
     : IEntityTypeConfiguration<CatalogItem>

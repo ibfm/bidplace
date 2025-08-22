@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <ContentPage
-    x:Class="eShop.ClientApp.Views.SettingsView"
+    x:Class="BidPlace.ClientApp.Views.SettingsView"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:animations="clr-namespace:eShop.ClientApp.Animations"
-    xmlns:controls="clr-namespace:eShop.ClientApp.Controls"
-    xmlns:converters="clr-namespace:eShop.ClientApp.Converters"
-    xmlns:triggers="clr-namespace:eShop.ClientApp.Triggers"
-    xmlns:viewmodels="clr-namespace:eShop.ClientApp.ViewModels"
+    xmlns:animations="clr-namespace:BidPlace.ClientApp.Animations"
+    xmlns:controls="clr-namespace:BidPlace.ClientApp.Controls"
+    xmlns:converters="clr-namespace:BidPlace.ClientApp.Converters"
+    xmlns:triggers="clr-namespace:BidPlace.ClientApp.Triggers"
+    xmlns:viewmodels="clr-namespace:BidPlace.ClientApp.ViewModels"
     Title="SETTINGS"
     x:DataType="viewmodels:SettingsViewModel"
     Shell.FlyoutBehavior="Disabled"

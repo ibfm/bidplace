@@ -1,10 +1,10 @@
-using eShop.ClientApp.Helpers;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Services.FixUri;
-using eShop.ClientApp.Services.RequestProvider;
-using eShop.ClientApp.Services.Settings;
+﻿using BidPlace.ClientApp.Helpers;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Services.FixUri;
+using BidPlace.ClientApp.Services.RequestProvider;
+using BidPlace.ClientApp.Services.Settings;
 
-namespace eShop.ClientApp.Services.Catalog;
+namespace BidPlace.ClientApp.Services.Catalog;
 
 public class CatalogService : ICatalogService
 {

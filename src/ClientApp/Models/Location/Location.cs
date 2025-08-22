@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.Location;
+﻿namespace BidPlace.ClientApp.Models.Location;
 
 public class Location
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.Permissions;
+﻿namespace BidPlace.ClientApp.Models.Permissions;
 
 public enum Permission
 {

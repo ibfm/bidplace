@@ -1,5 +1,5 @@
-﻿global using eShop.ServiceDefaults;
-global using eShop.WebhookClient.Components;
-global using eShop.WebhookClient.Endpoints;
-global using eShop.WebhookClient.Extensions;
-global using eShop.WebhookClient.Services;
+﻿global using BidPlace.ServiceDefaults;
+global using BidPlace.WebhookClient.Components;
+global using BidPlace.WebhookClient.Endpoints;
+global using BidPlace.WebhookClient.Extensions;
+global using BidPlace.WebhookClient.Services;

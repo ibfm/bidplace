@@ -1,4 +1,4 @@
-﻿namespace eShop.WebApp.Services;
+﻿namespace BidPlace.WebApp.Services;
 
 public class OrderStatusNotificationService
 {

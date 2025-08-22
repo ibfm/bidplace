@@ -1,6 +1,6 @@
-﻿using eShop.Basket.API.Model;
+﻿using BidPlace.Basket.API.Model;
 
-namespace eShop.Basket.API.Repositories;
+namespace BidPlace.Basket.API.Repositories;
 
 public interface IBasketRepository
 {

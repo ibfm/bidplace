@@ -1,9 +1,9 @@
-﻿using eShop.EventBus.Abstractions;
+﻿using BidPlace.EventBus.Abstractions;
 using Microsoft.Extensions.Options;
 using Npgsql;
-using eShop.OrderProcessor.Events;
+using BidPlace.OrderProcessor.Events;
 
-namespace eShop.OrderProcessor.Services
+namespace BidPlace.OrderProcessor.Services
 {
     public class GracePeriodManagerService(
         IOptions<BackgroundTaskOptions> options,

@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.Validations;
+﻿namespace BidPlace.Ordering.API.Application.Validations;
 
 public class ShipOrderCommandValidator : AbstractValidator<ShipOrderCommand>
 {

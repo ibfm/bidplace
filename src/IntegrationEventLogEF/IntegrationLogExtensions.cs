@@ -1,4 +1,4 @@
-﻿namespace eShop.IntegrationEventLogEF;
+﻿namespace BidPlace.IntegrationEventLogEF;
 
 public static class IntegrationLogExtensions
 {

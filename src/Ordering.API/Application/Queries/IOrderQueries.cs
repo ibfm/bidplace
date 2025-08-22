@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.Queries;
+﻿namespace BidPlace.Ordering.API.Application.Queries;
 
 public interface IOrderQueries
 {

@@ -1,4 +1,4 @@
-﻿using eShop.ClientApp.Models.Token;
+﻿using BidPlace.ClientApp.Models.Token;
 
 namespace ClientApp.UnitTests.Mocks;
 

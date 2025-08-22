@@ -1,6 +1,6 @@
-using eShop.ClientApp.Models.User;
+﻿using BidPlace.ClientApp.Models.User;
 
-namespace eShop.ClientApp.Services.Identity;
+namespace BidPlace.ClientApp.Services.Identity;
 
 public class IdentityMockService : IIdentityService
 {

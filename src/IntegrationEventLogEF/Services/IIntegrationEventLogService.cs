@@ -1,4 +1,4 @@
-﻿namespace eShop.IntegrationEventLogEF.Services;
+﻿namespace BidPlace.IntegrationEventLogEF.Services;
 
 public interface IIntegrationEventLogService
 {

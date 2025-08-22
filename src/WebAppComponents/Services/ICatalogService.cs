@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using eShop.WebAppComponents.Catalog;
+using BidPlace.WebAppComponents.Catalog;
 
-namespace eShop.WebAppComponents.Services
+namespace BidPlace.WebAppComponents.Services
 {
     public interface ICatalogService
     {

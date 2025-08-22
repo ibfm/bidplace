@@ -1,7 +1,7 @@
-﻿using eShop.HybridApp.Services;
+﻿using BidPlace.HybridApp.Services;
 using Microsoft.Extensions.Logging;
 
-namespace eShop.HybridApp;
+namespace BidPlace.HybridApp;
 
 public static class MauiProgram
 {

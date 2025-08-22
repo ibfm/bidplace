@@ -1,6 +1,6 @@
-﻿namespace eShop.Ordering.API.Infrastructure;
+﻿namespace BidPlace.Ordering.API.Infrastructure;
 
-using eShop.Ordering.Domain.AggregatesModel.BuyerAggregate;
+using BidPlace.Ordering.Domain.AggregatesModel.BuyerAggregate;
 
 public class OrderingContextSeed: IDbSeeder<OrderingContext>
 {

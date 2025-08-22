@@ -1,6 +1,6 @@
-﻿using eShop.WebAppComponents.Catalog;
+﻿using BidPlace.WebAppComponents.Catalog;
 
-namespace eShop.WebAppComponents.Item;
+namespace BidPlace.WebAppComponents.Item;
 
 public static class ItemHelper
 {

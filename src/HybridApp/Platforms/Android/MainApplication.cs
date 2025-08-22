@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace eShop.HybridApp;
+namespace BidPlace.HybridApp;
 
 [Application]
 public class MainApplication : MauiApplication

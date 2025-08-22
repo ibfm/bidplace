@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.Messaging;
-using eShop.ClientApp.Messages;
+using BidPlace.ClientApp.Messages;
 
-namespace eShop.ClientApp.Views;
+namespace BidPlace.ClientApp.Views;
 
 public partial class CatalogView
 {

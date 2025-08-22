@@ -1,4 +1,4 @@
-﻿namespace eShop.Identity.API.Models.AccountViewModels
+﻿namespace BidPlace.Identity.API.Models.AccountViewModels
 {
     public record LoggedOutViewModel
     {

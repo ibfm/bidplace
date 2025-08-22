@@ -1,20 +1,20 @@
-﻿.eshop-header {
+﻿.bidplace-header {
     position: relative;
     max-width: 120rem;
     margin: auto;
 }
 
-.eshop-header.home .eshop-header-container {
+.bidplace-header.home .bidplace-header-container {
     height: 38rem;
     margin-bottom: 0;
 }
 
-.eshop-header .eshop-header-container {
+.bidplace-header .bidplace-header-container {
     height: 15rem;
     margin-bottom: 4rem;
 }
 
-.eshop-header-hero {
+.bidplace-header-hero {
     overflow: hidden;
     position: absolute;
     max-width: 100%;
@@ -22,20 +22,20 @@
     top: 0;
 }
 
-.eshop-header-container {
+.bidplace-header-container {
     position: relative;
     margin: auto;
     margin: 0 10rem;
 }
 
-.eshop-header-intro {
+.bidplace-header-intro {
     position: absolute;
     max-width: 48rem;
     bottom: 3rem;
     white-space: nowrap;
 }
 
-.eshop-header-intro h1 {
+.bidplace-header-intro h1 {
     color: #000;
     font-size: 3.5rem;
     font-style: normal;
@@ -44,7 +44,7 @@
     margin: 0;
 }
 
-.eshop-header-intro p {
+.bidplace-header-intro p {
     color: #000;
     font-size: 2rem;
     font-style: normal;
@@ -53,12 +53,12 @@
     margin: 0;
 }
 
-.eshop-header .logo-header {
+.bidplace-header .logo-header {
     color: black;
     margin-right: auto;
 }
 
-.eshop-header-navbar {
+.bidplace-header-navbar {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;

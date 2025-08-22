@@ -1,10 +1,10 @@
 ﻿using System.Security.Claims;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
-using eShop.WebAppComponents.Catalog;
-using eShop.WebAppComponents.Services;
+using BidPlace.WebAppComponents.Catalog;
+using BidPlace.WebAppComponents.Services;
 
-namespace eShop.WebApp.Services;
+namespace BidPlace.WebApp.Services;
 
 public class BasketState(
     BasketService basketService,

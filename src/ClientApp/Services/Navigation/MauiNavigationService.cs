@@ -1,7 +1,7 @@
-using eShop.ClientApp.Models.User;
-using eShop.ClientApp.Services.AppEnvironment;
+﻿using BidPlace.ClientApp.Models.User;
+using BidPlace.ClientApp.Services.AppEnvironment;
 
-namespace eShop.ClientApp.Services;
+namespace BidPlace.ClientApp.Services;
 
 public class MauiNavigationService : INavigationService
 {

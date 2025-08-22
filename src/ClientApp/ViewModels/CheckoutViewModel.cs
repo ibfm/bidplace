@@ -1,14 +1,14 @@
-using CommunityToolkit.Mvvm.Messaging;
-using eShop.ClientApp.Messages;
-using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Models.Orders;
-using eShop.ClientApp.Models.User;
-using eShop.ClientApp.Services;
-using eShop.ClientApp.Services.AppEnvironment;
-using eShop.ClientApp.Services.Settings;
-using eShop.ClientApp.ViewModels.Base;
+﻿using CommunityToolkit.Mvvm.Messaging;
+using BidPlace.ClientApp.Messages;
+using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Models.Orders;
+using BidPlace.ClientApp.Models.User;
+using BidPlace.ClientApp.Services;
+using BidPlace.ClientApp.Services.AppEnvironment;
+using BidPlace.ClientApp.Services.Settings;
+using BidPlace.ClientApp.ViewModels.Base;
 
-namespace eShop.ClientApp.ViewModels;
+namespace BidPlace.ClientApp.ViewModels;
 
 public partial class CheckoutViewModel : ViewModelBase
 {

@@ -1,7 +1,7 @@
-﻿namespace eShop.Ordering.UnitTests.Domain;
+﻿namespace BidPlace.Ordering.UnitTests.Domain;
 
-using eShop.Ordering.Domain.AggregatesModel.OrderAggregate;
-using eShop.Ordering.UnitTests.Domain;
+using BidPlace.Ordering.Domain.AggregatesModel.OrderAggregate;
+using BidPlace.Ordering.UnitTests.Domain;
 
 [TestClass]
 public class OrderAggregateTest

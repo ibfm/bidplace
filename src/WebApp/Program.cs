@@ -1,5 +1,5 @@
-﻿using eShop.WebApp.Components;
-using eShop.ServiceDefaults;
+﻿using BidPlace.WebApp.Components;
+using BidPlace.ServiceDefaults;
 
 var builder = WebApplication.CreateBuilder(args);
 

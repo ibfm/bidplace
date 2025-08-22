@@ -1,4 +1,4 @@
-﻿using eShop.EventBusRabbitMQ;
+﻿using BidPlace.EventBusRabbitMQ;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Microsoft.Extensions.Hosting;

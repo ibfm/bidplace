@@ -1,4 +1,4 @@
-﻿namespace eShop.Identity.API.Configuration
+﻿namespace BidPlace.Identity.API.Configuration
 {
     public class Config
     {
@@ -44,7 +44,7 @@
                 new Client
                 {
                     ClientId = "maui",
-                    ClientName = "eShop MAUI OpenId Client",
+                    ClientName = "BidPlace MAUI OpenId Client",
                     AllowedGrantTypes = GrantTypes.Code,                    
                     //Used to retrieve the access token on the back channel.
                     ClientSecrets =

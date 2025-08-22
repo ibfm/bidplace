@@ -1,4 +1,4 @@
-﻿namespace eShop.Identity.API.Models.ManageViewModels
+﻿namespace BidPlace.Identity.API.Models.ManageViewModels
 {
     public record ChangePasswordViewModel
     {

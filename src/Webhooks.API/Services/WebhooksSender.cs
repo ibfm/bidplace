@@ -21,7 +21,7 @@ public class WebhooksSender(IHttpClientFactory httpClientFactory, ILogger<Webhoo
 
         if (!string.IsNullOrWhiteSpace(subs.Token))
         {
-            request.Headers.Add("X-eshop-whtoken", subs.Token);
+            request.Headers.Add("X-bidplace-whtoken", subs.Token);
         }
 
         if (logger.IsEnabled(LogLevel.Debug))

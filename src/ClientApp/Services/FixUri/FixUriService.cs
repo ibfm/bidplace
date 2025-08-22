@@ -1,11 +1,11 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.Text.RegularExpressions;
-using eShop.ClientApp.Models.Basket;
-using eShop.ClientApp.Models.Catalog;
-using eShop.ClientApp.Models.Marketing;
-using eShop.ClientApp.Services.Settings;
+using BidPlace.ClientApp.Models.Basket;
+using BidPlace.ClientApp.Models.Catalog;
+using BidPlace.ClientApp.Models.Marketing;
+using BidPlace.ClientApp.Services.Settings;
 
-namespace eShop.ClientApp.Services.FixUri;
+namespace BidPlace.ClientApp.Services.FixUri;
 
 public class FixUriService : IFixUriService
 {

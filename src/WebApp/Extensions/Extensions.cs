@@ -1,6 +1,6 @@
-﻿using eShop.Basket.API.Grpc;
-using eShop.WebApp.Services.OrderStatus.IntegrationEvents;
-using eShop.WebAppComponents.Services;
+﻿using BidPlace.Basket.API.Grpc;
+using BidPlace.WebApp.Services.OrderStatus.IntegrationEvents;
+using BidPlace.WebAppComponents.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Components.Authorization;

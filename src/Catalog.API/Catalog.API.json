@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "eShop - Catalog HTTP API",
+    "title": "BidPlace - Catalog HTTP API",
     "description": "The Catalog Microservice HTTP API. This is a Data-Driven/CRUD microservice sample",
     "version": "1.0"
   },

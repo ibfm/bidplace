@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Views.Templates;
+﻿namespace BidPlace.ClientApp.Views.Templates;
 
 public partial class ProductTemplate : ContentView
 {

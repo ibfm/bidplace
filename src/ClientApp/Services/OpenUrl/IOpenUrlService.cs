@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Services.OpenUrl;
+﻿namespace BidPlace.ClientApp.Services.OpenUrl;
 
 public interface IOpenUrlService
 {

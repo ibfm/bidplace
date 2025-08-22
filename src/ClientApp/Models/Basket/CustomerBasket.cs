@@ -1,4 +1,4 @@
-﻿namespace eShop.ClientApp.Models.Basket;
+﻿namespace BidPlace.ClientApp.Models.Basket;
 
 public class CustomerBasket
 {

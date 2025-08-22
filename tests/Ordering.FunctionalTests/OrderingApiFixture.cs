@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.Extensions.Hosting;
 
-namespace eShop.Ordering.FunctionalTests;
+namespace BidPlace.Ordering.FunctionalTests;
 
 public sealed class OrderingApiFixture : WebApplicationFactory<Program>, IAsyncLifetime
 {

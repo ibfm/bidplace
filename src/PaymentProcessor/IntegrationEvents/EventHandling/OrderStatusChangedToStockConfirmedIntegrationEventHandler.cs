@@ -1,4 +1,4 @@
-﻿namespace eShop.PaymentProcessor.IntegrationEvents.EventHandling;
+﻿namespace BidPlace.PaymentProcessor.IntegrationEvents.EventHandling;
 
 public class OrderStatusChangedToStockConfirmedIntegrationEventHandler(
     IEventBus eventBus,

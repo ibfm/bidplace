@@ -1,8 +1,8 @@
-using eShop.ClientApp.Services.Identity;
-using eShop.ClientApp.Services.RequestProvider;
-using eShop.ClientApp.Services.Settings;
+﻿using BidPlace.ClientApp.Services.Identity;
+using BidPlace.ClientApp.Services.RequestProvider;
+using BidPlace.ClientApp.Services.Settings;
 
-namespace eShop.ClientApp.Services.Location;
+namespace BidPlace.ClientApp.Services.Location;
 
 public class LocationService : ILocationService
 {

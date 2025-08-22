@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <ContentView
-    x:Class="eShop.ClientApp.Views.Templates.CampaignTemplate"
+    x:Class="BidPlace.ClientApp.Views.Templates.CampaignTemplate"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:models="clr-namespace:eShop.ClientApp.Models.Marketing"
+    xmlns:models="clr-namespace:BidPlace.ClientApp.Models.Marketing"
     x:DataType="models:CampaignItem">
     <ContentView.Resources>
         <ResourceDictionary>

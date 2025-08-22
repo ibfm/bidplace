@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace eShop.ClientApp;
+namespace BidPlace.ClientApp;
 
 [Application]
 public class MainApplication : MauiApplication

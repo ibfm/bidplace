@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eShop.Ordering.Infrastructure.Idempotency;
+namespace BidPlace.Ordering.Infrastructure.Idempotency;
 
 public class ClientRequest
 {

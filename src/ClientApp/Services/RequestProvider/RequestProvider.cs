@@ -1,11 +1,11 @@
-#nullable enable
+﻿#nullable enable
 using System.Net;
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text.Json;
-using eShop.ClientApp.Exceptions;
+using BidPlace.ClientApp.Exceptions;
 
-namespace eShop.ClientApp.Services.RequestProvider;
+namespace BidPlace.ClientApp.Services.RequestProvider;
 
 public class RequestProvider(HttpMessageHandler _messageHandler) : IRequestProvider
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.Ordering.API.Application.Behaviors;
+﻿namespace BidPlace.Ordering.API.Application.Behaviors;
 
 using Microsoft.Extensions.Logging;
 

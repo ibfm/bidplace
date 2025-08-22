@@ -2,7 +2,7 @@
 using Microsoft.Maui.Maps;
 using Map = Microsoft.Maui.Controls.Maps.Map;
 
-namespace eShop.ClientApp.Views;
+namespace BidPlace.ClientApp.Views;
 
 public partial class MapView
 {

@@ -2,7 +2,7 @@
 using System.Text.Json.Serialization;
 using Pgvector;
 
-namespace eShop.Catalog.API.Model;
+namespace BidPlace.Catalog.API.Model;
 
 public class CatalogItem
 {

@@ -1,4 +1,4 @@
-﻿namespace eShop.OrderProcessor;
+﻿namespace BidPlace.OrderProcessor;
 
 public class BackgroundTaskOptions
 {

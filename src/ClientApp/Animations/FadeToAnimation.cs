@@ -1,7 +1,7 @@
-using eShop.ClientApp.Animations.Base;
-using eShop.ClientApp.Helpers;
+﻿using BidPlace.ClientApp.Animations.Base;
+using BidPlace.ClientApp.Helpers;
 
-namespace eShop.ClientApp.Animations;
+namespace BidPlace.ClientApp.Animations;
 
 public class FadeToAnimation : AnimationBase
 {

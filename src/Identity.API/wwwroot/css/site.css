@@ -141,33 +141,33 @@ body {
     padding: 3rem;
 }
 
-.eshop-banner {
+.bidplace-banner {
     display: flex;
     justify-content: center;
 }
 
-.eshop-banner img {
+.bidplace-banner img {
     position: absolute;
     width: 100%;
     max-width: 1920px;
 }
 
-.eshop-header {
+.bidplace-header {
     position: relative;
     max-width: 120rem;
     margin: auto;
 }
 
-.eshop-header.home .eshop-header-container {
+.bidplace-header.home .bidplace-header-container {
     height: 38rem;
     margin-bottom: 0;
 }
 
-.eshop-header .eshop-header-container {
+.bidplace-header .bidplace-header-container {
     margin-bottom: 4rem;
 }
 
-.eshop-header-hero {
+.bidplace-header-hero {
     overflow: hidden;
     position: absolute;
     max-width: 100%;
@@ -175,19 +175,19 @@ body {
     top: 0;
 }
 
-.eshop-header-container {
+.bidplace-header-container {
     position: relative;
     margin: auto;
     margin: 0 10rem;
 }
 
-.eshop-header-intro {
+.bidplace-header-intro {
     position: absolute;
     max-width: 48rem;
     bottom: 3rem;
 }
 
-.eshop-header-intro h1 {
+.bidplace-header-intro h1 {
     color: #000;
     font-size: 3.5rem;
     font-style: normal;
@@ -196,7 +196,7 @@ body {
     margin: 0;
 }
 
-.eshop-header-intro p {
+.bidplace-header-intro p {
     color: #000;
     font-size: 2rem;
     font-style: normal;
@@ -205,12 +205,12 @@ body {
     margin: 0;
 }
 
-.eshop-header .logo-header {
+.bidplace-header .logo-header {
     color: black;
     margin-right: auto;
 }
 
-.eshop-header-navbar {
+.bidplace-header-navbar {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -219,18 +219,18 @@ body {
     gap: 1.5rem;
 }
 
-.eshop-footer {
+.bidplace-footer {
     margin-top: 3.5rem;
     background-color: #000;
     width: 100%;
 }
 
-.eshop-footer-content {
+.bidplace-footer-content {
     max-width: 120rem;
     margin: auto;
 }
 
-.eshop-footer-row {
+.bidplace-footer-row {
     padding: 3.5rem 10rem;
     color: white;
     display: flex;
@@ -238,13 +238,14 @@ body {
     align-items: baseline;
 }
 
-.eshop-footer .logo-footer {
+.bidplace-footer .logo-footer {
     color: white;
     margin-right: auto;
 }
 
 .login-container {
     position: relative;
+    width: auto;
     display: flex;
     padding: 40px;
     flex-direction: column;
@@ -312,6 +313,7 @@ body {
     justify-content: center;
     align-items: flex-end;
     gap: 8px;
+    color: #FFF;
     align-self: stretch;
     background: #000;
 }

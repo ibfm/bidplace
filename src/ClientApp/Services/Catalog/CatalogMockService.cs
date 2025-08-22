@@ -1,6 +1,6 @@
-﻿using eShop.ClientApp.Models.Catalog;
+﻿using BidPlace.ClientApp.Models.Catalog;
 
-namespace eShop.ClientApp.Services.Catalog;
+namespace BidPlace.ClientApp.Services.Catalog;
 
 public class CatalogMockService : ICatalogService
 {

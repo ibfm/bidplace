@@ -1,4 +1,4 @@
-﻿namespace eShop.WebAppComponents.Catalog;
+﻿namespace BidPlace.WebAppComponents.Catalog;
 
 public record CatalogItem(
     int Id,

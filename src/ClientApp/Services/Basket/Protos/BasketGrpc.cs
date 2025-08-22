@@ -7,7 +7,7 @@
 
 using grpc = global::Grpc.Core;
 
-namespace eShop.ClientApp.BasketGrpcClient {
+namespace BidPlace.ClientApp.BasketGrpcClient {
   public static partial class Basket
   {
     static readonly string __ServiceName = "BasketApi.Basket";
@@ -46,18 +46,18 @@ namespace eShop.ClientApp.BasketGrpcClient {
     }
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Marshaller<global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest> __Marshaller_BasketApi_GetBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest.Parser));
+    static readonly grpc::Marshaller<global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest> __Marshaller_BasketApi_GetBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Marshaller<global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Marshaller_BasketApi_CustomerBasketResponse = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse.Parser));
+    static readonly grpc::Marshaller<global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Marshaller_BasketApi_CustomerBasketResponse = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Marshaller<global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest> __Marshaller_BasketApi_UpdateBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest.Parser));
+    static readonly grpc::Marshaller<global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest> __Marshaller_BasketApi_UpdateBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Marshaller<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest> __Marshaller_BasketApi_DeleteBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest.Parser));
+    static readonly grpc::Marshaller<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest> __Marshaller_BasketApi_DeleteBasketRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Marshaller<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse> __Marshaller_BasketApi_DeleteBasketResponse = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse.Parser));
+    static readonly grpc::Marshaller<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse> __Marshaller_BasketApi_DeleteBasketResponse = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse.Parser));
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Method<global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest, global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Method_GetBasket = new grpc::Method<global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest, global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse>(
+    static readonly grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Method_GetBasket = new grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse>(
         grpc::MethodType.Unary,
         __ServiceName,
         "GetBasket",
@@ -65,7 +65,7 @@ namespace eShop.ClientApp.BasketGrpcClient {
         __Marshaller_BasketApi_CustomerBasketResponse);
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Method<global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest, global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Method_UpdateBasket = new grpc::Method<global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest, global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse>(
+    static readonly grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> __Method_UpdateBasket = new grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse>(
         grpc::MethodType.Unary,
         __ServiceName,
         "UpdateBasket",
@@ -73,7 +73,7 @@ namespace eShop.ClientApp.BasketGrpcClient {
         __Marshaller_BasketApi_CustomerBasketResponse);
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-    static readonly grpc::Method<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest, global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse> __Method_DeleteBasket = new grpc::Method<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest, global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse>(
+    static readonly grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse> __Method_DeleteBasket = new grpc::Method<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest, global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse>(
         grpc::MethodType.Unary,
         __ServiceName,
         "DeleteBasket",
@@ -83,7 +83,7 @@ namespace eShop.ClientApp.BasketGrpcClient {
     /// <summary>Service descriptor</summary>
     public static global::Google.Protobuf.Reflection.ServiceDescriptor Descriptor
     {
-      get { return global::eShop.ClientApp.BasketGrpcClient.BasketReflection.Descriptor.Services[0]; }
+      get { return global::BidPlace.ClientApp.BasketGrpcClient.BasketReflection.Descriptor.Services[0]; }
     }
 
     /// <summary>Client for Basket</summary>
@@ -114,62 +114,62 @@ namespace eShop.ClientApp.BasketGrpcClient {
       }
 
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse GetBasket(global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse GetBasket(global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return GetBasket(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse GetBasket(global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::CallOptions options)
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse GetBasket(global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.BlockingUnaryCall(__Method_GetBasket, null, options, request);
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> GetBasketAsync(global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> GetBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return GetBasketAsync(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> GetBasketAsync(global::eShop.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::CallOptions options)
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> GetBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.GetBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.AsyncUnaryCall(__Method_GetBasket, null, options, request);
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse UpdateBasket(global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse UpdateBasket(global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return UpdateBasket(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse UpdateBasket(global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::CallOptions options)
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse UpdateBasket(global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.BlockingUnaryCall(__Method_UpdateBasket, null, options, request);
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> UpdateBasketAsync(global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> UpdateBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return UpdateBasketAsync(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.CustomerBasketResponse> UpdateBasketAsync(global::eShop.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::CallOptions options)
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.CustomerBasketResponse> UpdateBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.UpdateBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.AsyncUnaryCall(__Method_UpdateBasket, null, options, request);
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse DeleteBasket(global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse DeleteBasket(global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return DeleteBasket(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse DeleteBasket(global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::CallOptions options)
+      public virtual global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse DeleteBasket(global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.BlockingUnaryCall(__Method_DeleteBasket, null, options, request);
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse> DeleteBasketAsync(global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse> DeleteBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
       {
         return DeleteBasketAsync(request, new grpc::CallOptions(headers, deadline, cancellationToken));
       }
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual grpc::AsyncUnaryCall<global::eShop.ClientApp.BasketGrpcClient.DeleteBasketResponse> DeleteBasketAsync(global::eShop.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::CallOptions options)
+      public virtual grpc::AsyncUnaryCall<global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketResponse> DeleteBasketAsync(global::BidPlace.ClientApp.BasketGrpcClient.DeleteBasketRequest request, grpc::CallOptions options)
       {
         return CallInvoker.AsyncUnaryCall(__Method_DeleteBasket, null, options, request);
       }
