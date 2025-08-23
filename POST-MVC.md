@@ -17,9 +17,6 @@
 - 📨 **Multi-channel Notifications**
   - Push/SMS/Email for queue updates (approved, missing docs, auction starting soon).
 
-- 🌐 **Localization & Timezones**
-  - PT-BR + EN UI, localized date/number formats, automatic timezone handling.
-
 ---
 
 ## 🏢 Organization Tools (Suppliers)
@@ -105,11 +102,7 @@
 
 - 💼 **Billing Service**
   - SaaS (C1) invoicing + 1% commission; PIX/credit card; dunning flows.
-  - Events: consume `AuctionClosed/Won`.
-
-- 💰 **Deposit (Caução) Providers**
-  - Optional switch from “proof upload” to **escrow/PIX with webhook confirmation**.
-  - Reconciliation dashboard; partial refunds; dispute escalation.
+  - Events: consume `AuctionClosed/Won` to create Invoices, and Payment History.
 
 ---
 
