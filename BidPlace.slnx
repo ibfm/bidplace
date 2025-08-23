@@ -34,6 +34,7 @@
     <File Path="DEVPLAN-01.md" />
     <File Path="Directory.Packages.props" />
     <File Path="NuGet.config" />
+    <File Path="POST-MVC.md" />
     <File Path="README.md" />
     <File Path="USERFLOWS.md" />
   </Folder>
